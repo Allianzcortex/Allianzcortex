@@ -1,8 +1,11 @@
-Here are some ideas to get you started:
-
 Tech Stack : 
-Backend : Java + Spring / Python + Djano + Python / Golang
-Frongend : React + Redux + React Hooks + React-Router / Vue + Vuex + Vue-router / Javascript / Typescript / HTML + CSS
-Others : Docker + Git + Nginx + Hadoop + Spark + Flume + Kafka
-With 8-month coop in Dash Hudson (https://dashhudson.com/)
+
+Backend : `Java + Spring` / `Python + Djano + Flask` + `Golang` + `Node.js / Express`
+
+Frongend : `React + Redux + React Hooks + React-Router` / `Vue + Vuex + Vue-router` / `Javascript + Typescript` / HTML + CSS + Semantic-UI
+
+Others : Docker + Git + Nginx + Hadoop + Spark + Flume + Kafka + Agile
+
+I just finished my 8 months coop at [Dash Hudson](https://dashhudson.com/) where we build the social platform management tool for the the world's most important brands(Pinterest/Wework/GQ Magazine).
+
 And I am targeting a software developer position ( : 
