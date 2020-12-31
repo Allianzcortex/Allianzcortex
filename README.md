@@ -6,4 +6,8 @@ Frongend : `React + Redux + React Hooks + React-Router` / `Vue + Vuex + Vue-rout
 
 Others : `Docker` + `Git` + `Nginx` + `Hadoop` + `Spark` + `Flume` + `Kafka` + `Cypress` + `Agile`
 
-Check my contributions to [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app/) —— [PR1](https://github.com/gothinkster/flask-realworld-example-app/pull/26) , [PR2](https://github.com/gothinkster/flask-realworld-example-app/pull/27)
+- Check my contributions to [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app/) —— [PR1](https://github.com/gothinkster/flask-realworld-example-app/pull/26) , [PR2](https://github.com/gothinkster/flask-realworld-example-app/pull/27)
+
+- I'm interested in `ML/DL` and did some [related projects](https://github.com/Allianzcortex/code_collection#code_collection--). I worked with [Roberto Calandra, A FB Scientist]( https://www.linkedin.com/in/rcalandra/) on [pytouch project](https://pypi.org/project/pytouch/) which will provide a smoother experience for PyTorch user.
+
+- I'm interested in Backend/Frontend Development.
