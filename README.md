@@ -8,6 +8,4 @@ Others : `Docker` + `Git` + `Nginx` + `Hadoop` + `Spark` + `Flume` + `Kafka` + `
 
 - Check my contributions to [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app/) —— [PR1](https://github.com/gothinkster/flask-realworld-example-app/pull/26) , [PR2](https://github.com/gothinkster/flask-realworld-example-app/pull/27)
 
-- I'm interested in `ML/DL` and did some [related projects](https://github.com/Allianzcortex/code_collection#code_collection--). I worked with [Roberto Calandra, A FB Scientist]( https://www.linkedin.com/in/rcalandra/) on [pytouch project](https://pypi.org/project/pytouch/) which will provide a smoother experience for PyTorch user.
-
-- I'm interested in Backend/Frontend Development.
+- Fun fact : I used to create a PyPI package [pytouch](https://pypi.org/project/pytouch/) and now it's transfered to [FAIR, Facebook AI Research](https://ai.facebook.com/). However you can still see my [0.1.0](https://pypi.org/project/pytouch/0.1.0/) version and install it via `pip install pytouch==0.1.0`
