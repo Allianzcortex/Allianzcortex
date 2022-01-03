@@ -1,11 +1,6 @@
-Tech Stack : 
 
-Backend : `Java + Spring` / `Python + Djano + Flask` + `Golang` + `Node.js / Express`
+- used to be interested in data science & ML/DL : created a PyPI package [pytouch](https://pypi.org/project/pytouch/) and now it's transfered to [FAIR, Facebook AI Research](https://ai.facebook.com/). However you can still see my [0.1.0](https://pypi.org/project/pytouch/0.1.0/) version and install it via `pip install pytouch==0.1.0`
 
-Frontend : `React + Redux + React Hooks + React-Router` / `Vue + Vuex + Vue-router` / `Javascript + Typescript` / `HTML + CSS + Semantic-UI`
+- Interested in Backend&Frontend development : actively involved in [gothinkster] community. Pushed [2 PRs](https://github.com/gothinkster/flask-realworld-example-app/pulls?q=is%3Apr+author%3AAllianzcortex+is%3Aclosed) for a Flask backend repo. Maintained a frontend [implementation](https://github.com/Allianzcortex/react-typescript-hooks-realworld) with React+Typescript
 
-Others : `Docker` + `Git` + `Nginx` + `Hadoop` + `Spark` + `Flume` + `Kafka` + `Cypress` + `Agile`
-
-- Check my contributions to [flask-realworld-example-app](https://github.com/gothinkster/flask-realworld-example-app/) —— [PR1](https://github.com/gothinkster/flask-realworld-example-app/pull/26) , [PR2](https://github.com/gothinkster/flask-realworld-example-app/pull/27)
-
-- Fun fact : I used to create a PyPI package [pytouch](https://pypi.org/project/pytouch/) and now it's transfered to [FAIR, Facebook AI Research](https://ai.facebook.com/). However you can still see my [0.1.0](https://pypi.org/project/pytouch/0.1.0/) version and install it via `pip install pytouch==0.1.0`
+- Interested in K8s & Cloud Computing / Distributed System currenctly
