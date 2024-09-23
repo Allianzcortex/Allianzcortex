@@ -5,4 +5,6 @@
 
 - Passinate about Cloud Computing and Containerization : Gained a deep understanding and hands-on experience with AWS and Kubernetes (K8s) during my tenure at Arctic Wolf, which is an [AWS partner](https://partners.amazonaws.com/partners/001E000001N6pzFIAR/Arctic%20Wolf) and uses AWS ECS and EKS to [handle 200 billion events daily](https://arcticwolf.com/resources/press-releases/arctic-wolf-selects-aws-to-power-global-cybersecurity-offering-at-scale/).
 
+- Have participated in the [Advent of Code](https://adventofcode.com/) for several years, finding lots of fun while using different [solutions](https://github.com/Allianzcortex/code_collection/tree/master/advent_of_code) for different types of problems.
+
 - Interested in Distributed System currently
