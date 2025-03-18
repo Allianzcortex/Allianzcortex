@@ -7,4 +7,6 @@
 
 - Have participated in the [Advent of Code](https://adventofcode.com/) for several years, finding lots of fun while using different [solutions](https://github.com/Allianzcortex/code_collection/tree/master/advent_of_code) for different types of problems.
 
-- Interested in Distributed System currently
+- Interested in Distributed System
+
+- Interested in LLM in recent years, mostly about [theory behind LLM and enginner practice](https://www.youtube.com/watch?v=7xTGNNLPyMI) and [how to use LLM daily to optimize the life experience](https://www.youtube.com/watch?v=EWvNQjAaOHw)
